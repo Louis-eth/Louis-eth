@@ -61,13 +61,14 @@ _Diplomas :_
 - Certificate voltaire with highest honour.
 
 <br>
+<br>
 
 ----
 
+_Coding stats :_
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
 
 [C]: https://devdocs.io/c/
 [python]: https://www.python.org/
@@ -87,7 +88,3 @@ _Diplomas :_
 [flutter]: https://flutter.dev/
 [Ocaml]: https://ocaml.org/index.fr.html
 [Arduino]: https://www.arduino.cc/
-
-
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->

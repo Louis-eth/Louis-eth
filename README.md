@@ -60,20 +60,12 @@ _Diplomas :_
 - Level B1 in written expression in German certified by <br>Deutsches Sprachdiplom der Kultusministerkonferenz. <br>
 - Certificate voltaire with highest honour.
 
+<br>
+
 ----
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
-
-
 
 
 

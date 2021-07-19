@@ -61,7 +61,6 @@ _Diplomas :_
 - Certificate voltaire with highest honour.
 
 <br>
-<br>
 
 ----
 

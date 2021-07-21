@@ -53,12 +53,13 @@ _Languages I would like to learn in 2021 :_
 <br>
 <br>
 
-_Diplomas :_
+_Career path :_
 
 - BIA (Introduction to aeronautics certificate) with highhonours.<br>
 - Eirlingua English Certification 50h.<br>
 - Level B1 in written expression in German certified by <br>Deutsches Sprachdiplom der Kultusministerkonferenz. <br>
 - Certificate voltaire with highest honour.
+- Participation in the hackasprint on artificial intelligence.
 
 <br>
 

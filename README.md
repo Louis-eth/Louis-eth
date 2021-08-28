@@ -69,7 +69,8 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-C   4 hrs 52 mins   █████████████████████████   100.00 % 
+C           16 hrs 57 mins  █████████████████████████   99.69 % 
+Makefile    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 

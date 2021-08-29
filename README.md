@@ -2,7 +2,7 @@
 
 # Hello, my name is Louis,
 
-I am a French student and I want to become a computer engineer. For the moment, I'm interested in a lot of fields in computer science and design, that's why I propose different personal projects on this github.
+I am a French student and I want to become a computer engineer. For the moment, I'm interested in a lot of fields in computer science, blockchain and design, that's why I propose different personal projects on this github.
 
 I propose two "kinds" of repositories :
 * 🎯 Projects (e.g. complete software).
@@ -44,10 +44,7 @@ _Languages I would like to learn in 2021 :_
 
 [<img align="left" alt="flutter" width="30px" src="https://img.icons8.com/ios/50/000000/flutter.png"/>][flutter]
 
-[<img align="left" alt="Arduino" width="30px" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>][Arduino]
-
-[<img align="left" alt="Ocaml" width="30px" src="https://img.icons8.com/dusk/64/000000/--camel.png"/>][Ocaml]
-
+[<img align="left" alt="Solidity" width="35px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg"/>][Solidity]
 
 <br>
 <br>
@@ -60,6 +57,7 @@ _Career path :_
 - Level B1 in written expression in German certified by <br>Deutsches Sprachdiplom der Kultusministerkonferenz. <br>
 - Certificate voltaire with highest honour.
 - Participation in the hackasprint on artificial intelligence.
+- Certification C openclassroom.
 
 <br>
 
@@ -92,3 +90,4 @@ Makefile    2 mins          ░░░░░░░░░░░░░░░░░�
 [flutter]: https://flutter.dev/
 [Ocaml]: https://ocaml.org/index.fr.html
 [Arduino]: https://www.arduino.cc/
+[Solidity]: https://docs.soliditylang.org/en/v0.8.7/

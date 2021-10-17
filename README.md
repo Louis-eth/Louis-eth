@@ -10,7 +10,7 @@ I propose two "kinds" of repositories :
 
 ---
 
-[<img align="right" alt="C" width="275" src="img/pic.gif"/>][C]
+<!--[<img align="right" alt="C" width="275" src="img/pic.gif"/>][C]-->
 
 _Languages and tools I use :_
 

@@ -67,8 +67,7 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-C           16 hrs 57 mins  █████████████████████████   99.69 % 
-Makefile    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python   1 hr 18 mins    █████████████████████████   99.37 % 
 ```
 <!--END_SECTION:waka-->
 

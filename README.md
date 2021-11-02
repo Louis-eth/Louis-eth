@@ -67,8 +67,7 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-C      3 hrs 25 mins   ███████████████████████▓░   94.36 % 
-JSON   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+C   2 hrs 6 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

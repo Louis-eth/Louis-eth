@@ -38,9 +38,7 @@ _Languages and tools I use :_
 <br>
 <br>
 
-_Languages I would like to learn in 2021 :_
-
-[<img align="left" alt="C++" width="30px" src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/>][C++]
+_Languages I would like to learn in 2022 :_
 
 [<img align="left" alt="flutter" width="30px" src="https://img.icons8.com/ios/50/000000/flutter.png"/>][flutter]
 

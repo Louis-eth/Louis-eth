@@ -65,7 +65,7 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-C   10 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

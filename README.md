@@ -65,7 +65,9 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C       6 hrs 38 mins   ████████████████████████▒   97.21 % 
+JSON    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -2,7 +2,14 @@
 
 # Hello, my name is Louis,
 
-I am a French student and I want to become a computer engineer. For the moment, I'm interested in a lot of fields in computer science, blockchain and design, that's why I propose different personal projects on this github.
+I am a French student and I want to become a computer engineer.
+
+_Interested in :_
+* 🐦 Cross-platform software development
+* ⛏ Blockchain
+* 💂 Cyber security
+* ⚙️ Embedded system
+
 
 I propose two "kinds" of repositories :
 * 🎯 Projects (e.g. complete software).
@@ -20,13 +27,7 @@ _Languages and tools I use :_
 
 [<img align="left" alt="solus" width="30px" src="https://img.icons8.com/dusk/64/000000/linux.png"/>][solus]
 
-[<img align="left" alt="i3wm" width="30px" src="https://img.icons8.com/dusk/64/000000/closed-window.png"/>][i3wm]
-
-[<img align="left" alt="alacritty" width="30px" src="https://img.icons8.com/dusk/64/000000/console.png"/>][alacritty]
-
 [<img align="left" alt="vscode" width="30px" src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/>][vscode]
-
-[<img align="left" alt="git" width="30px" src="https://img.icons8.com/ios/50/000000/git.png"/>][git]
 
 [<img align="left" alt="raspberry" width="30px" src="https://img.icons8.com/dusk/64/000000/raspberry-pi.png"/>][raspberry]
 
@@ -68,6 +69,13 @@ _Coding stats :_
 C       10 hrs 11 mins  █████████████████████████   99.74 % 
 ```
 <!--END_SECTION:waka-->
+
+<br>
+<br>
+
+<p align="center">
+<img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-france-flags-vitaliy-gorbachev-flat-vitaly-gorbachev.png"/>
+</p>
 
 [C]: https://devdocs.io/c/
 [python]: https://www.python.org/

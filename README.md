@@ -66,7 +66,7 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-C       10 hrs 11 mins  █████████████████████████   99.74 % 
+C       4 hrs 59 mins   █████████████████████████   99.69 % 
 ```
 <!--END_SECTION:waka-->
 

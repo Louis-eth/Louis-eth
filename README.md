@@ -66,9 +66,8 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-Dart     1 hr 47 mins    ████████████████████▓░░░░   82.09 % 
-Python   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Dart     2 hrs 21 mins   ██████████████████████▒░░   88.68 % 
+Python   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
 ```
 <!--END_SECTION:waka-->
 

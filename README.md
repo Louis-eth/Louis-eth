@@ -10,10 +10,12 @@ _Interested in :_
 * 💂 Cyber security
 * ⚙️ Embedded system
 
+_Currently working on:_
+ * 🐣 Learning Flutter
 
 I propose two "kinds" of repositories :
-* 🎯 Projects (e.g. complete software).
-* 🧩 Tools (piece of code to add in your project).
+* 🎯 Projects (e.g. complete software)
+* 🧩 Tools (piece of code to add in your project)
 
 ---
 

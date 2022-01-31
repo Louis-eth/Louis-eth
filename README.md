@@ -70,7 +70,7 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-Dart   6 hrs 18 mins   █████████████████████████   99.76 % 
+Dart   4 hrs 55 mins   █████████████████████████   99.69 % 
 ```
 <!--END_SECTION:waka-->
 

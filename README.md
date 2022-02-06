@@ -1,4 +1,4 @@
-![banner](banner2.png)
+![banner](banner.png)
 
 # Hello, my name is Louis,
 

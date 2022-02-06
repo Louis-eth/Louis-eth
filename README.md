@@ -1,4 +1,4 @@
-![banner](img/banner.gif)
+![banner](banner2.png)
 
 # Hello, my name is Louis,
 

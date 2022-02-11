@@ -70,8 +70,8 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-Dart   1 hr 11 mins    ████████████████████████▒   97.26 % 
-YAML   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Dart   1 hr 11 mins    ████████████████████████▒   97.27 % 
+YAML   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 

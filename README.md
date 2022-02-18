@@ -70,10 +70,11 @@ _Coding stats :_
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 2 mins
+Total: 4 hrs 44 mins
 
-Dart    1 hr            ████████████████████████▒   97.08 % 
-YAML    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Dart       4 hrs 27 mins   ███████████████████████▒░   93.87 % 
+YAML       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Groovy     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 

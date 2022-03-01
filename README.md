@@ -69,9 +69,13 @@ _Career path :_
 _Coding stats :_
 
 <!--START_SECTION:waka-->
+
 ```text
-Dart   6 hrs 48 mins   █████████████████████████   100.00 % 
+Dart   3 hrs 40 mins   █████████████████████████   99.64 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>

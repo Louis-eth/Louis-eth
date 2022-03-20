@@ -71,8 +71,8 @@ _Coding stats :_
 <!--START_SECTION:waka-->
 
 ```text
-Dart    2 hrs 45 mins   █████████████████████████   99.67 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Dart    4 hrs 2 mins    █████████████████████████   99.78 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->

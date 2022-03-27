@@ -53,6 +53,8 @@ _Languages I would like to learn in 2022 :_
 <br>
 <br>
 
+<!--
+
 _Career path :_
 
 - BIA (Introduction to aeronautics certificate) with highhonours.<br>
@@ -62,7 +64,7 @@ _Career path :_
 - Participation in the hackasprint on artificial intelligence.
 - Certification C openclassroom (40h).
 
-<br>
+-->
 
 ----
 

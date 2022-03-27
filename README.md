@@ -79,6 +79,10 @@ Other        1 min           ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-eth&langs_count=4&layout=compact)]
+-->
+
 <br>
 <br>
 

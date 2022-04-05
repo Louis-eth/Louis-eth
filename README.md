@@ -73,7 +73,8 @@ _Coding stats :_
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   42 mins         █████████████████████████   100.00 %
+Dart       49 mins         █████████████▒░░░░░░░░░░░   53.92 %
+Markdown   42 mins         ███████████▓░░░░░░░░░░░░░   46.08 %
 ```
 
 <!--END_SECTION:waka-->

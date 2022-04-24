@@ -73,7 +73,9 @@ _Coding stats :_
 <!--START_SECTION:waka-->
 
 ```text
-Python   42 mins         █████████████████████████   100.00 %
+Python   3 hrs 7 mins    ███████████████████████░░   91.47 %
+JSON     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Dart     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->

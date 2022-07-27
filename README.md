@@ -73,7 +73,8 @@ _Coding stats :_
 <!--START_SECTION:waka-->
 
 ```text
-CSV   0 secs          █████████████████████████   100.00 %
+Python   0 secs          ███████████████▓░░░░░░░░░   62.44 %
+CSV      0 secs          █████████▒░░░░░░░░░░░░░░░   37.56 %
 ```
 
 <!--END_SECTION:waka-->

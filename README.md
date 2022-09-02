@@ -73,9 +73,7 @@ _Coding stats :_
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 mins         ███████████████████████▒░   93.10 %
-CSS          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -2,7 +2,7 @@
 
 # Hello, my name is Louis,
 
-I am a French student and I want to become a computer engineer.
+I am a French engineering student.
 
 _Interested in :_
 * 🐦 Cross-platform software development
@@ -11,7 +11,7 @@ _Interested in :_
 * ⚙️ Embedded system
 
 _Currently working on:_
- * 🐣 Learning Flutter
+ * 🎓 School
 
 I propose two "kinds" of repositories :
 * 🎯 Projects (e.g. complete software)
@@ -40,6 +40,7 @@ _Languages and tools I use :_
 <br>
 <br>
 <br>
+<!--
 
 _Languages I would like to learn in 2022 :_
 
@@ -48,7 +49,7 @@ _Languages I would like to learn in 2022 :_
 <img align="left" alt="flutter" width="30px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
 [<img align="left" alt="Solidity" width="35px" src="https://docs.soliditylang.org/en/v0.8.7/_images/logo.svg"/>][Solidity]
-
+-->
 <br>
 <br>
 <br>
